@@ -107,7 +107,7 @@
         <mxCell id="fU7K8vb8Lv-WIJmMKOUZ-217" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cloudfront;fillColor=#F58536;gradientColor=none;" parent="fU7K8vb8Lv-WIJmMKOUZ-213" vertex="1">
           <mxGeometry x="140" y="151" width="76.5" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="fU7K8vb8Lv-WIJmMKOUZ-218" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cloudfront;fillColor=#F58536;gradientColor=none;" parent="fU7K8vb8Lv-WIJmMKOUZ-213" vertex="1">
+        <mxCell id="fU7K8vb8Lv-WIJmMKOUZ-218" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cloudfront;fillColor=#66CC00;gradientColor=none;" parent="fU7K8vb8Lv-WIJmMKOUZ-213" vertex="1">
           <mxGeometry x="592" y="148" width="76.5" height="93" as="geometry" />
         </mxCell>
         <object label="User layer" id="1">
