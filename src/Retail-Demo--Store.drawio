@@ -126,6 +126,9 @@
         <mxCell id="135vJ2xj-HG3R5OqyIlV-3" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.codepipeline;" vertex="1" parent="1">
           <mxGeometry x="187" y="168" width="28" height="18" as="geometry" />
         </mxCell>
+        <mxCell id="135vJ2xj-HG3R5OqyIlV-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="135vJ2xj-HG3R5OqyIlV-4" target="135vJ2xj-HG3R5OqyIlV-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="135vJ2xj-HG3R5OqyIlV-4" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 12px;&quot;&gt;AWS CodeDeploy&lt;/font&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.codedeploy;" vertex="1" parent="1">
           <mxGeometry x="627" y="195" width="80" height="110" as="geometry" />
         </mxCell>
@@ -151,6 +154,9 @@
         </mxCell>
         <mxCell id="135vJ2xj-HG3R5OqyIlV-15" value="&lt;b&gt;&lt;font face=&quot;Georgia&quot;&gt;Developer&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="55" y="269" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="135vJ2xj-HG3R5OqyIlV-16" value="&lt;b&gt;&lt;font face=&quot;Georgia&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;p style=&quot;white-space: pre-wrap;&quot; dir=&quot;auto&quot;&gt;&lt;b&gt;&lt;font face=&quot;Georgia&quot;&gt;CloudFront (Swagger UI)&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;font face=&quot;Georgia&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cloudfront;fillColor=#F58536;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="630.5" y="374" width="76.5" height="93" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
